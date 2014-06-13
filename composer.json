@@ -1,5 +1,5 @@
 {
-    "name": "floms/open-barcode",
+    "name": "floms/openbarcode",
     "autoload": {
         "psr-0": {
             "OpenBarcode\\": "src"
@@ -7,7 +7,7 @@
     },
     "homepage": "http://floms.github.io/Open-Barcode/",
     "type": "library",
-    "license": "Apache License, Version 2.0",
+    "license": "Apache License Version 2.0",
     "authors": [
         {
             "name": "Yoel Nunez",
